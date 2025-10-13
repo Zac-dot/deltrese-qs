@@ -1,0 +1,9 @@
+{
+  "baseline-style@@accented-interface": true,
+  "baseline-style@@background-contrast-dark": "contrast-dark-tonal",
+  "baseline-style@@density-modifier": 0.75,
+  "baseline-style@@radius-modifier": 1,
+  "baseline-style@@icon-stroke-modifier": 0.75,
+  "baseline-style@@status-bar-style": "status-bar-compact",
+  "baseline-style@@color-scheme-dark": "admin-dark"
+}
