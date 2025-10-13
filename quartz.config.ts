@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "www.deltrese.com",
-    ignorePatterns: ["private", "templates", ".obsidian", ".trash"],
+    ignorePatterns: ["private", "templates", ".trash"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
