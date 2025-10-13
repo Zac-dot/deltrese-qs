@@ -1,6 +1,9 @@
 ---
-tags: 
-title: index
+aliases:
+  - frontpage
+  - main
+tags:
+title: Welcome to Deltrese
 created: 2025-10-13
 modified: 2025-10-13
 ---
