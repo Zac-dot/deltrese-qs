@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Howdy.md",
-                "mode": "source",
-                "source": false
+                "file": "content/About Me/About Me.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Howdy"
+              "title": "About Me"
             }
           }
         ]
@@ -167,18 +167,19 @@
   },
   "active": "e2161b3a09904677",
   "lastOpenFiles": [
-    "content/assets/reflection-art.jpg",
-    "content/index.md",
     "content/Howdy.md",
+    "content/About Me/About Me.md",
+    "content/index.md",
     "content/About Me/Portfolio.md",
-    "content/assets/Portfolio-assets",
-    "content/assets/Portfolio-assets/learnix-mobile.png",
-    "content/assets/Portfolio-assets/phase3repo.jpg",
-    "content/assets/Portfolio-assets/pianotoy.jpg",
     "content/About Me",
-    "assets",
+    "content/assets/Portfolio-assets/pianotoy.jpg",
+    "content/assets/Portfolio-assets/phase3repo.jpg",
+    "content/assets/Portfolio-assets/learnix-mobile.png",
+    "content/assets/reflection-art.jpg",
+    "content/assets/Portfolio-assets",
     "content/assets",
     "content",
+    "assets",
     "index.md",
     "Test.md"
   ]
