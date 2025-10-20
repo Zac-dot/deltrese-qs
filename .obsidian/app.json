@@ -5,5 +5,5 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "content/assets"
 }

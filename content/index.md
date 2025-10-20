@@ -8,7 +8,6 @@ created: 2025-10-13
 modified: 2025-10-13
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+# Welcome to My Corner of the Earth
 
-test
+Currently this is a work in progress, as I am slowly figuring out things around here, but feel free to take a look around in the meantime. Things will show up whenever, however.
