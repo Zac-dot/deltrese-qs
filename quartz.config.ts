@@ -13,7 +13,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: null,
+      provider: "google",
+      tagId: 'G-Y6BJ041TV0'
     },
     locale: "en-US",
     baseUrl: "www.deltrese.com",
