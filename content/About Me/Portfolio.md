@@ -8,7 +8,7 @@ created: 2025-10-20
 modified: 2025-10-20
 ---
 
-## Projects and Descriptions
+# Projects and Descriptions
 
 Each of these projects are viewable (along with source code) on my GitHub page. You can view this by clicking the link on Viewable at, or by the GitHub logo at the bottom of the page.
 
