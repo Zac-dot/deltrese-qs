@@ -5,6 +5,7 @@ This is a personal site for personal use, and for whatever i'd like to say on it
 ## How is this built?
 
 This is done using quartz, and can be seen here: https://quartz.jzhao.xyz/
+
 As stated from the original github repo:
 
 >Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
