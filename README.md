@@ -1,18 +1,16 @@
-# Quartz v4
+# Zac-dot Personal Site / Blog
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This is a personal site for personal use, and for whatever i'd like to say on it. This site is able to be better controled with what tech I already know, and allows me to use [Obsidian](https://obsidian.md/) in order to make changes, push, and deploy the site. View the site [here](https://www.deltrese.com)!
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## How is this built?
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+This is done using quartz, and can be seen here: https://quartz.jzhao.xyz/
+As stated from the original github repo:
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+>Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+>Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
 
-## Sponsors
+## License
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
